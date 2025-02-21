@@ -23,7 +23,7 @@ This is a simple C++ program that manages a small class grading system. It allow
 
 ### Requirements
 
-- A C++ compiler (e.g., g++ for GCC)
+- A C++ compiler 
 
 ### Steps to Compile & Run
 
