@@ -114,6 +114,7 @@ void calculateAveragesAndGrades(Student students[], int currentStudentCount, int
 // Function to display results
 void displayResults(Student students[], int currentStudentCount, bool averagesCalculated) {
     if (!averagesCalculated) {
+
         cout << "Please calculate average test scores before displaying results!\n";
         return;
     }

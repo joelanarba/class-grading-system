@@ -85,7 +85,7 @@ Alice                 86.6        B
 Bob                   72.4        C
 
 Author
-Joel Anarba
+Joel Anarba Amuni
 
 License
 This project is licensed under the MIT License.
